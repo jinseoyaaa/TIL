@@ -1,6 +1,4 @@
-# TIL Day 01
-
-> 2023년 03월 9일 목요일
+# TIL 1
 
 ## Why Git & Github?
 
@@ -19,7 +17,7 @@
 - 1일 1커밋 하기
 - [이동욱님 Github 계정](https://github.com/jojoldu)
 
-
+<br>
 
 ## CLI
 
@@ -52,7 +50,7 @@ $ rm a.txt
 $ rm -r test
 ```
 
-
+<br>
 
 ## Visual Studio Code
 
@@ -75,7 +73,7 @@ $ rm -r test
    - 닫기는 Close Terminal 로써, 터미널을 종료하지 않고 창만 보이지 않게 만든다.
 5.  기본 터미널이 Git Bash로 열리는지 확인한다.
 
-
+<br>
 
 ## Markdown
 
